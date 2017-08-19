@@ -1,1 +1,1 @@
-this is img for cj
+this is img dir for cj
